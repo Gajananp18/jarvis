@@ -1,41 +1,27 @@
-# AcademyGuide Desktop App
+# Jarvis
 
-AcademyGuide Desktop App is a Java-based application built to efficiently manage private classes. Using Java Swing for the graphical user interface, JDBC for database connectivity, and SQL for data management, this application simplifies student registration, admission confirmation, syllabus tracking, and provides effective search functionalities for private class management.
+Jarvis Virtual Assistant is a web-based application designed to provide seamless voice-command interactions. Built using Web Speech API for speech synthesis and recognition, the assistant can perform tasks such as opening applications, navigating to websites, and answering queries. This project leverages JavaScript for dynamic functionality and ensures an intuitive user experience, showcasing practical applications of NLP and voice-based automation.
 
 ## Features
 
-- **Student Registration:** Easily register new students with essential details.
+- Responds to voice commands using web speech synthesis and speech recognition APIs.
 
-- **Admission Confirmation:** Confirm student admissions and maintain admission records.
+- Opens apps or websites.
 
-- **Syllabus Tracking:** Keep track of the syllabus covered, remaining topics, and current progress.
-
-- **Holiday Management:** Mark holidays and track how they affect the syllabus schedule.
-
-- **Effective Search:** Utilize advanced search parameters to find students, syllabus details, and more.
-
-
+- Responds to user queries.
 
 ## Usage
 
-- Launch the application by double-clicking the JAR file or running it from the command line.
-- Register new students and confirm their admissions through the user-friendly interface.
-- Keep track of syllabus coverage, update progress, and manage holidays within the application.
-- Use the advanced search feature to easily retrieve specific student or syllabus information.
-
-
-The AcademyGuide Desktop App streamlines the management of private classes through a Java-based application with a Java Swing GUI, JDBC database connectivity, and SQL data management. It simplifies student registration, admission tracking, syllabus management, and effective searching, all within a convenient desktop environment.
-
+- Launch the application by opening it in a web browser.
+- Use voice commands to interact with the assistant for seamless operation.
+- Open applications or websites instantly by speaking the desired command.
+- Ask questions or queries, and receive real-time responses through the speech synthesis feature.
+- The Jarvis Virtual Assistant simplifies daily tasks through intuitive voice-based automation, leveraging the Web Speech API for accurate speech recognition and synthesis. Its dynamic design ensures efficient interaction, making it a powerful tool for enhancing productivity.
 
 ## SNIPTS OF THE DESKTOP FRAMES 
 
 # Jarvis
 
-
-   ![Screenshot 2023-12-17 093514](https://github.com/aditya172003/private_Classes_management_system/assets/108934815/715e4309-8c28-4ace-9617-c1195690b0b6)
-
-
-
-
+   ![Jarvis Virtual Assistant Interface](https://github.com/Gajananp18/jarvis/blob/main/Jarvis.png)
 
 ## Thank you 
