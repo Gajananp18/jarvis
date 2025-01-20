@@ -14,13 +14,7 @@ AcademyGuide Desktop App is a Java-based application built to efficiently manage
 
 - **Effective Search:** Utilize advanced search parameters to find students, syllabus details, and more.
 
-## Getting Started
 
-1. Download the latest release of the AcademyGuide Desktop App from the (https://github.com/yourusername/AcademyGuide/releases) page.
-2. Make sure you have Java Development Kit (JDK) installed.
-3. Configure the database settings in the application's configuration file.
-4. download the jcalander jar fro meven repository 
-5. Run the application: `java -jar AcademyGuideDesktopApp.jar`
 
 ## Usage
 
